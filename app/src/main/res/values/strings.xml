@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A7S212021prac6</string>
+    <string name="tipocelular">Celular</string>
+    <string name="vhorizontal">Horizontal</string>
+    <string name="vvertical">Vertical</string>
+    <string name="logocelular">celular</string>
+    <string name="logohalo">master</string>
+</resources>
